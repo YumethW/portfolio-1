@@ -1,0 +1,39 @@
+// Color palette
+
+// Red: #A31621 (Madder)
+// Purple: #420039 (Dark Purple)
+// Light blue: #cdedf6 (Light Cyan)
+// Black: #0c0c1d (Ebony)
+
+// ********************
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Esteban", serif;
+}
+
+html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0c0c1d;
+  color: #cdedf6;
+}
+
+section {
+  height: 100vh;
+  scroll-snap-align: center;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

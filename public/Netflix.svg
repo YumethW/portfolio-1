@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 48 48"
+   fill="#000000"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="Netflix.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.295"
+     inkscape:cx="274.57627"
+     inkscape:cy="400"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg15" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <g
+     id="SVGRepo_iconCarrier"
+     style="stroke:#a31621;stroke-opacity:1">
+    <defs
+       id="defs6">
+      <style
+         id="style4">.a{fill:none;stroke:#f7b32b;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <path
+       class="a"
+       d="M29,25.75V5l8.4-.5v39L29,43M19,22.25V43l-8.4.5V4.5h0L19,5"
+       id="path8"
+       style="stroke:#a31621;stroke-opacity:1" />
+    <line
+       class="a"
+       x1="18.98"
+       y1="5"
+       x2="37.42"
+       y2="43.5"
+       id="line10"
+       style="stroke:#a31621;stroke-opacity:1" />
+    <line
+       class="a"
+       x1="10.58"
+       y1="4.5"
+       x2="29.02"
+       y2="43"
+       id="line12"
+       style="stroke:#a31621;stroke-opacity:1" />
+  </g>
+</svg>

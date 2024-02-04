@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 48 48"
+   fill="#000000"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="Music.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.295"
+     inkscape:cx="274.57627"
+     inkscape:cy="400"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg15" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <g
+     id="SVGRepo_iconCarrier"
+     style="stroke:#a31621;stroke-opacity:1">
+    <defs
+       id="defs6">
+      <style
+         id="style4">.a{fill:none;stroke:#f7b32b;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <circle
+       class="a"
+       cx="18.5377"
+       cy="35.3781"
+       r="8.1219"
+       id="circle8"
+       style="stroke:#a31621;stroke-opacity:1" />
+    <line
+       class="a"
+       x1="26.6596"
+       y1="35.3781"
+       x2="26.6596"
+       y2="12.8341"
+       id="line10"
+       style="stroke:#a31621;stroke-opacity:1" />
+    <path
+       class="a"
+       d="M28.69,4.5h6.8637a2.03,2.03,0,0,1,2.03,2.03v4.2732a2.03,2.03,0,0,1-2.03,2.03H26.66a0,0,0,0,1,0,0V6.53A2.03,2.03,0,0,1,28.69,4.5Z"
+       id="path12"
+       style="stroke:#a31621;stroke-opacity:1" />
+  </g>
+</svg>

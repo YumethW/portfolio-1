@@ -1,0 +1,72 @@
+.hero {
+  height: calc(100vh - 6.5rem);
+  background: #0c0c1d;
+  overflow: hidden;
+  position: relative;
+
+  .wrapper {
+    max-width: 85rem;
+    height: 100%;
+    margin: auto;
+
+    .textContainer {
+      height: 100%;
+      width: 70%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 2.5rem;
+
+      h2 {
+        font-size: 2rem;
+        color: #a31621;
+        letter-spacing: 0.3rem;
+      }
+
+      h1 {
+        font-size: 6rem;
+        position: relative;
+        z-index: 2;
+        color: #cdedf6;
+      }
+
+      .button {
+        button {
+          padding: 1.5rem;
+          border: 2px solid #cdedf6;
+          background: transparent;
+          color: #cdedf6;
+          border-radius: 10px;
+          margin-right: 1.5rem;
+          cursor: pointer;
+          font-weight: lighter;
+        }
+      }
+    }
+
+    img {
+      width: 3rem;
+    }
+  }
+
+  .heroAnimation {
+    width: 60rem;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .slidingSVGContainer {
+    position: absolute;
+    bottom: -5rem;
+    white-space: nowrap;
+    width: 50%;
+
+    img {
+      width: 80vh;
+      opacity: 10%;
+      margin-right: 5rem;
+    }
+  }
+}

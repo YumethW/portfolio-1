@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#f7b32b"
+   width="800px"
+   height="800px"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="Cola.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.295"
+     inkscape:cx="274.57627"
+     inkscape:cy="400"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <g
+     id="SVGRepo_iconCarrier"
+     style="fill:#a31621;fill-opacity:1">
+    <title
+       id="title4" />
+    <g
+       data-name="Layer 12"
+       id="Layer_12"
+       style="fill:#a31621;fill-opacity:1">
+      <path
+         d="M55,14H35V1a1,1,0,0,0-1-1H30a1,1,0,0,0-1,1V14H9a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h3.087l1.279,14.074c0,.013,0,.025,0,.037L16,63.091A1,1,0,0,0,17,64H47a1,1,0,0,0,1-.909l2.64-28.98c0-.012,0-.024,0-.037L51.913,20H55a1,1,0,0,0,1-1V15A1,1,0,0,0,55,14ZM31,2h2V14H31ZM17.914,62,15.42,34.58a6.093,6.093,0,0,1,6.428.829,1,1,0,0,0,1.3,0A5.893,5.893,0,0,1,27,34a5.99,5.99,0,0,1,4.282,1.806,1.027,1.027,0,0,0,1.436,0A5.99,5.99,0,0,1,37,34a5.893,5.893,0,0,1,3.848,1.409,1,1,0,0,0,1.3,0,6.1,6.1,0,0,1,6.428-.829L46.086,62ZM48.767,32.52a8.159,8.159,0,0,0-7.267.87A7.928,7.928,0,0,0,37,32a8.02,8.02,0,0,0-5,1.76A8.02,8.02,0,0,0,27,32a7.928,7.928,0,0,0-4.5,1.39,8.162,8.162,0,0,0-7.267-.869L14.1,20h35.81ZM54,18H10V16H54Z"
+         id="path6"
+         style="fill:#a31621;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
